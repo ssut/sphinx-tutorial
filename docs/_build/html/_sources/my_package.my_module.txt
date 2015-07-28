@@ -1,7 +1,0 @@
-my_package.my_module module
-===========================
-
-.. automodule:: my_package.my_module
-    :members:
-    :undoc-members:
-    :show-inheritance:
